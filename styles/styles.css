@@ -120,7 +120,7 @@ nav ul li a{
     justify-content: space-between;
     position: relative;
 
-    background-image: url(../Imágenes/fondoportada.svg);
+    background-image: url(../images/fondoportada.svg);
     background-size: cover;
     background-position: bottom;
 }
